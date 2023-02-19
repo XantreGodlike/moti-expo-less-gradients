@@ -1,0 +1,11 @@
+{
+  "name": "moti-expo-less-gradients",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "author": "XantreGodlike",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "moti": "^0.23.7"
+  }
+}
